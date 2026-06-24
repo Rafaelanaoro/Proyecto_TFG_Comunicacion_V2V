@@ -1,4 +1,4 @@
-# SDiseño de protocolo de comunicación para coches autónomos
+# Diseño de protocolo de comunicación para coches autónomos
 
 Este repositorio contiene el código fuente y la documentación técnica desarrollada para el Trabajo de Fin de Grado (TFG) titulado **"Diseño de protocolo de comunicación para coches autónomos"** en la Universidad de Sevilla.
 
